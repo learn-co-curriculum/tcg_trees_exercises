@@ -82,6 +82,8 @@ F
 G
 ```
 
+Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Breadth-first_search).
+
 ### `printLevels`
 
 Way to go! `printBranches` went through the branches of the tree in order. Now, we want to go through the _levels_ of the tree in order - the whole level before we move on to the next level.
@@ -95,6 +97,8 @@ E
 F
 G
 ```
+
+Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Depth-first_search).
 
 ### `printTree`
 
