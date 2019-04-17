@@ -82,7 +82,7 @@ F
 G
 ```
 
-Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Breadth-first_search).
+Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Depth-first_search).
 
 ### `printLevels`
 
@@ -98,7 +98,7 @@ F
 G
 ```
 
-Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Depth-first_search).
+Hint: If you get stuck, look [here](https://en.wikipedia.org/wiki/Breadth-first_search).
 
 ### `printTree`
 
